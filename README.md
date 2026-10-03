@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Luke 👋
 
-<!--
-**lukefx/lukefx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Lugano, Switzerland, interested in turning
+complex technology into useful, practical tools.
 
-Here are some ideas to get you started:
+My work spans Python, web APIs, AI/LLMs and home automation, with roots
+in GIS and Ruby/JRuby. I enjoy connecting systems, simplifying workflows
+and experimenting with new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some projects you'll find here:
+- ✨ Stardust — a lightweight Python web framework.
+- 🤖 hubot-telegram — a Telegram adapter for Hubot, which I contributed to.
+- 🖼️ telegram-photoframe — a photo frame built with React and TDLib.
+- 📚 storybook — experimenting with LLM-powered children's stories.
+- 🏠 Home Assistant integrations — connecting software to everyday life.
+
+I also enjoy sharing knowledge through technical talks.
+Away from the keyboard: an aspiring baker 🍞
